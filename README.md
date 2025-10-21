@@ -4,12 +4,6 @@
 
 ---
 
-## 📄 Paper Link
-
-[📘 Read the Paper (PDF)](https://github.com/prathameshdv/Adapted-Cat-and-Mouse-Based-Optimizer/blob/main/Documents/ICOA2025_ID214%20(1).pdf)
-
----
-
 ## 🧠 Overview
 
 This repository contains the implementation for our research paper  
@@ -39,12 +33,4 @@ We utilize pretrained **ConvNeXt-Tiny** and **ResNet50** architectures on the *W
 | Ensemble (ConvNeXt + ResNet)      | **76.42**    |
 
 ---
-
-### 📈 Example Output
-
-![Model Output Example](https://github.com/prathameshdv/Adapted-Cat-and-Mouse-Based-Optimizer/blob/main/Results/1500.png)
-
----
-
-## 🧰 Repository Structure
 
