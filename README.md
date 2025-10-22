@@ -2,6 +2,10 @@
 
 **Leveraging Pretrained Ensemble Models for Fine-grained Cereal Quality Inspection**
 
+**Guide** - Dr. Indra Deep Mastan, Department of Computer Science and Engineering, IIT (BHU), Varanasi
+
+
+
 ---
 
 ## 🧠 Overview
